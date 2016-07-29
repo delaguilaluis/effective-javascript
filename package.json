@@ -1,0 +1,22 @@
+{
+  "name": "effective-javascript",
+  "version": "1.0.0",
+  "description": "Effective JavaScript workshop exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "keywords": [
+    "exercises",
+    "javascript",
+    "crockford",
+    "course",
+    "effective"
+  ],
+  "author": "Luis Del Aguila <ldelaguila@paypal.com>",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^2.13.1",
+    "eslint-config-airbnb": "^9.0.1"
+  }
+}
